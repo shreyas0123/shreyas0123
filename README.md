@@ -1,7 +1,7 @@
 ### Hi I'm Shreyas A B 👋
 
 
-- 🔭 Just completed a project on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project.
+- 🔭 Just completed a project on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project. [[ View Presentation on Youtube]](https://www.youtube.com/watch?v=9Ymq7WSuXDE)
   [[ View Presentation on Youtube]](https://www.youtube.com/watch?v=9Ymq7WSuXDE)
 - 🌱 I’m currently learning Artificial Intelligence(https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
